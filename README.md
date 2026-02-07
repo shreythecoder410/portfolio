@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+Shreyasee.dev – Full Stack MERN Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Personal portfolio website built with React showcasing my skills, projects, and experience as a Full Stack MERN Developer with a strong backend focus.
 
-## Available Scripts
+👩‍💻 About
 
-In the project directory, you can run:
+Backend-focused MERN Stack Developer experienced in building secure REST APIs, JWT authentication, and scalable backend systems using Node.js, Express.js, and MongoDB, along with responsive UIs using React and Material UI.
 
-### `npm start`
+🚀 Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Responsive & modern UI
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Project cards with image sliders and detail modals
 
-### `npm test`
+Backend-focused project explanations
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Contact form with social links
 
-### `npm run build`
+Resume download support
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+🛠 Tech Stack
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Frontend: React, Material UI, Tailwind CSS
+Backend (Projects): Node.js, Express.js, MongoDB, JWT
+Tools: Git, GitHub, REST APIs
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+📂 Projects
 
-### `npm run eject`
+EventHub – Online Event Management System
+Role-based authentication, event creation, registrations, ticketing, admin dashboard.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Medibridge – Doctor Appointment System
+Secure backend APIs, email verification, appointment management.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Doctor Appointment System
+OTP authentication, admin & doctor dashboards, REST APIs.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+📬 Contact
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Email: palsumitra265@gmail.com
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+LinkedIn: https://linkedin.com/in/shreyasee-pal
 
-### Code Splitting
+GitHub: https://github.com/shreythecoder410
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+⭐ Built for learning, growth, and real-world backend development.
