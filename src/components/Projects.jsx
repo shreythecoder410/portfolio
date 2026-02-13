@@ -34,7 +34,7 @@ const projects = [
     ],
     tech: ["Node.js", "Express", "MongoDB", "JWT", "React", "React-Redux", "Material UI"],
     github: "https://github.com/shreythecoder410/Eventhub-management-system",
-    live: "https://eventhub.vercel.app",
+    // live: "https://eventhub.vercel.app",
     images: [
       "/images/event-image1.jpg",
       "/images/event-image2.jpg",
@@ -58,7 +58,7 @@ const projects = [
     ],
     tech: ["Node.js", "Express", "MongoDB", "JWT", "bcrypt", "Nodemailer", "EJS", "HTML", "CSS", "Bootstrap"],
     github: "https://github.com/shreythecoder410/Doctor_Appointment_Backend-Medibridge",
-    live: "https://doctor-app.vercel.app",
+    // live: "https://doctor-app.vercel.app",
     images: [
       "/images/medibridge-image1.png",
       "/images/medibridge-image2.png",
@@ -84,7 +84,7 @@ const projects = [
     ],
     tech: ["React.js", "JavaScript(ES6)", "React Redux","Redux toolkit", "Material UI", "CSS"],
     github: "https://github.com/shreythecoder410/Organia-React-Frontend",
-    live: "https://doctor-app.vercel.app",
+    // live: "https://doctor-app.vercel.app",
     images: [
       "/images/organia-image1.png",
       "/images/organia-image2.png",
