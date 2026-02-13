@@ -39,7 +39,7 @@ OTP authentication, admin & doctor dashboards, REST APIs.
 
 Contact
 
-Email: palsumitra265@gmail.com
+Email: shreyaseepal04@gmail.com
 
 LinkedIn: https://linkedin.com/in/shreyasee-pal
 
